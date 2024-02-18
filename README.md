@@ -1,5 +1,5 @@
 # StatArbPairsTrading
-#### The repository includes an introduction to statistical arbitrage pairs trading. My jupyter notebook, StatArbBlog.ipynb, is divided into two central categories: research and backtesting.
+#### This repository includes an introduction to statistical arbitrage pairs trading. My jupyter notebook, StatArbBlog.ipynb, is divided into two central categories: research and backtesting.
 
 ## Research
 #### In the research aspect of my jupyter notebook, I discuss a few different statistical approaches to analyze cointegration and mean-revresion. Additionally, I discuss a rather simple way to finding a pair with cointegration tendencies, i.e., selected the most liquid competing companies within a specific sectior. In my example, I used the car manufacturing industry as my sector of choice.
