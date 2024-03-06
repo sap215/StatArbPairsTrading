@@ -2,7 +2,7 @@
 #### This repository includes an introduction to statistical arbitrage pairs trading. My jupyter notebook, StatArbBlog.ipynb, is divided into two central categories: research and backtesting.
 
 ## Research
-#### In the research aspect of my jupyter notebook, I discuss a few different statistical approaches to analyze cointegration and mean-revresion. Additionally, I discuss a rather simple way to finding a pair with cointegration tendencies, i.e., selected the most liquid competing companies within a specific sector. In my example, I used the car manufacturing industry as my sector of choice.
+#### In the research aspect of my jupyter notebook, I discuss a few different statistical approaches to analyze cointegration and mean-reversion. Additionally, I discuss a rather simple way to finding a pair with cointegration tendencies, i.e., selected the most liquid competing companies within a specific sector. In my example, I used the car manufacturing industry as my sector of choice.
 
 ## Backtesting
 #### In the backtesting aspect of my jupyter notebook, I discuss how to formally create a backtest as well as calculate realized pnl and sharpe ratio. By no means do I consider this way to be the best way of creating a backtest, I've just had great success with this method and it has allowed me to calculate performance metrics rather easily. Additionally, I did not discuss calculating unrealized pnl, drawdowns, or rolling sharpe ratio. Again, this notebook is to get the reader accustomed to developing simple statistical arbitrage pairs trading strategies.
